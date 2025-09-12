@@ -1,7 +1,9 @@
 ## Hi there, I am Ashwath👋
 
 🎓 CSE (applied AI) student @ St. Joseph University x Kalvium
+
 🔭 Currently learning AI concepts and Flutter
+
 📫  Contact me via [Linkedin](https://linkedin.com/in/ashwathpalanisamy), [Mail](mailto=ashwakausi@outlook.com)
 
 [![Ashwath Palanisamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwath-Palanisamy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
