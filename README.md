@@ -1,25 +1,20 @@
-## Hi there, I am Ashwath👋
+# Hi, I'm Ashwath Palanisamy 🚀 <!-- -->
 
-<div align='center'>
-  <p>About Me</p> 
-</div>
+I am a self-taught Software Engineer and B.Tech Computer Science student specializing in **Applied AI**. <!-- --> I build hardware-efficient client applications, real-time automation tools, and streamlined digital systems.
 
-🎓 CSE (applied AI) student @ St. Joseph University x Kalvium  
-🔭 Currently learning AI concepts and Flutter  
-📫  Contact me via [Linkedin](https://linkedin.com/in/ashwathpalanisamy), [Mail](mailto:ashwakausi@outlook.com)
+---
 
-[![Ashwath Palanisamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwath-Palanisamy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Ashwath-Palanisamy/Ashwath-Palanisamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+*   **Frontend:** Flutter & Dart (Mobile & Web) <!-- -->
+*   **Backend & BaaS:** Node.js, Express, Firebase, Supabase, Gemini API <!-- -->
+*   **DevOps & Automation:** GitHub Actions, Shell Scripting <!-- -->
+*   **Systems & Web:** Linux Administration (Fedora, KDE), SEO Optimization <!-- -->
+*   **Learning:** MERN Stack (React, MongoDB) <!-- -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect With Me
+
+*   [LinkedIn](https://www.linkedin.com/in/ashwathpalanisamy/)
+*   [Email](mailto:ashwath.palanisamy08@gmail.com)
